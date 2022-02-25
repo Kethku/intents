@@ -1,0 +1,15 @@
+x Define datastructure
+x Use druid-shell to make a window
+x Modify plan type to have helpers for adding and creating tasks
+x Create basic plan for rendering purposes
+x Render default plan as a series of boxes with text in them and lines to each child.
+x Lookup and find color scheme
+x Render selected node and selected leaf
+- Add current voyage index tracker and render an icon indicating where the voyage currently is
+- Implement selection movement bindings
+- Create files for map and voyage tabs which render and handle input logic
+- Make tab system which displays current voyage or global map and make tab switch between them
+- Implement map edit mode by pressing I and escape to swap back
+- Render current mode in bottom right of map screen
+- Look at text editor demo in druid shell and implement minimal version
+- Serialize datastructure to file and load it on startup. Write it out when returning to normal mode
